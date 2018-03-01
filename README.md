@@ -1,2 +1,2 @@
-# Josephine Nyoike
+# Josephine Wanjiku 
 Glimpse of me
