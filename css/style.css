@@ -14,6 +14,7 @@ body{
 }
 h1{
     font-size: 50px;
+    font-weight: bold;
 }
 .fa-2x{
     color: black;
@@ -53,12 +54,15 @@ footer{
 .footer{
     padding-top: 40px;
 }
-@media (min-width: 500px) and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     h1{
-        font-size: 30px;
+        font-size: 20px;
     }
     .intro img{
         width: 100px;
         height: 100px;
+    }
+    #links{
+        margin-top: 10px;
     }
 }
