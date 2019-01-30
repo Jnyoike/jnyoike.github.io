@@ -53,6 +53,9 @@ footer{
 .footer{
     padding-top: 40px;
 }
+.intro-text{
+    margin-left: 17%;
+}
 @media only screen and (max-width: 600px) {
     h1{
         font-size: 20px;
@@ -64,4 +67,7 @@ footer{
     #links{
         margin-top: 10px;
     }
+    .intro-text{
+    margin-left: 0%;
+}
 }
